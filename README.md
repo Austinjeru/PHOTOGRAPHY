@@ -1,4 +1,4 @@
- # PICKPOCK
+ # Throughmylens
 
 #### A photo website  
 #### By **Austinjeru**
@@ -6,7 +6,7 @@
 ---
 
 ## 📖 Description  
-PICKPOCK is a photo website designed to showcase my photography to people and help them book me for work. It’s simple, visual, and made for easy browsing of my portfolio.
+Throughmylens is a photo website designed to showcase my photography to people and help them book me for work. It’s simple, visual, and made for easy browsing of my portfolio.
 
 ### Key Features:
 - Look at my work
