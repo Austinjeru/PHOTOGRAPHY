@@ -6,13 +6,13 @@ p{color: antiquewhite; text-shadow: 0svb;}
 .white{color: antiquewhite;}
 li{color: brown;}
 img{float:none;}
-header{color: brown;
+header{color:whitesmoke;
 font-family:Verdana, Geneva, Tahoma, sans-serif;}
 footer{color: antiquewhite;}
 h3{color: antiquewhite;}
-h1{color: brown;
+h1{color: whitesmoke;
 border:2px solid color beige;
-background-color:black;
+background-color:grey;
 width: 100vw ;
 align-items: center;
 text-align: center;
@@ -20,8 +20,8 @@ border-radius: 5px;}
 a{color: darksalmon;}
 .navigation{
     width: 100vw; 
-    border: 1px solid brown;
-    background-color: brown;
+    border: 1px solid purple;
+    background-color:purple;
     border-radius: 5px;
     position: fixed;
     top: 0%;left: 0%;
@@ -33,7 +33,7 @@ a{color: darksalmon;}
 a{text-decoration: solid;
 color: blanchedalmond;
 }
-h2{color: chocolate;}
+h2{color: blanchedalmond}
 .kichwa{margin-top: 100px;
 text-align: center;
 }
@@ -53,7 +53,7 @@ align-items: center;
 }
 footer{
     border: 10px;
-    background-color: crimson;
+    background-color:purple;
     border-radius: 10px;
     display: flex;
     justify-content: space-around;
